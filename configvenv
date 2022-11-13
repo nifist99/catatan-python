@@ -1,2 +1,4 @@
 python -m venv venv
 venv\Scripts\activate
+
+https://pypi.org/project/linkedin-scraper/
