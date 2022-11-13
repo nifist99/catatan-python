@@ -2,3 +2,6 @@ python -m venv venv
 venv\Scripts\activate
 
 https://pypi.org/project/linkedin-scraper/
+
+if __name__ == "__main__":
+   Do something here
